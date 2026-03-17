@@ -50,6 +50,15 @@
 
 ---
 
+<h3 align="center">【 CONTATO 】</h3>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/giovanni-venturin-88a372348/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
+  </a>
+</div>
+
+---
 <h3 align="center">【 HABILIDADES 】</h3>
 
 <p align="center">
