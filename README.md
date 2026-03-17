@@ -1,5 +1,4 @@
 # Giovanni Fassina Venturin
-.
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="banner" width="70%">
 </p>
@@ -35,7 +34,7 @@
 <img align="right" alt="coding gif" width="350" src="https://clipart-library.com/img/2091643.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=giovannifassina&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&labelColor=01102d&icon_color=%2341C350&style=flat" alt="Giovanni" /> 
+  <img src="https://komarev.com/ghpvc/?username=GiovanniVenturin&label=Visualiza%C3%A7%C3%B5es%20de%20perfil&labelColor=01102d&icon_color=%2341C350&style=flat" alt="Giovanni" /> 
 </p>
 
 - 🎓 Estudante na *Universidade Santa Cecília (Unisanta)*
@@ -62,11 +61,11 @@
 <h3 align="center">【 ESTATÍSTICAS 】</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USUARIO_GITHUB&show_icons=true&line_height=30&theme=algolia&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GiovanniVenturin&show_icons=true&line_height=30&theme=algolia&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&line_height=30&theme=algolia&locale=pt-br&include_all_commits=true&v=1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovanniVenturin&show_icons=true&line_height=30&theme=algolia&locale=pt-br&include_all_commits=true&v=1"/>
 </p>
 
 ---
@@ -74,7 +73,7 @@
 <h3 align="center">【 ATIVIDADE 】</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiovanniVenturin&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
