@@ -39,9 +39,6 @@
 
 - 🎓 Estudante na *Universidade Santa Cecília (Unisanta)*
 - 🏆 Vencedor do *Hackathon Unisanta 2025* com o time <commit e rezar>
-### 🛠️ O que estou fazendo agora
-- **QA & Research** na Unisanta: Trabalhando na validação de [IAmedbr], garantindo que o código seja robusto e escalável.
-- Focado em: Testes Automatizados, Testes de API e Documentação Técnica.
 - 💻 *Experiência e Habilidades:*
   - 🌐 *Front-end:* Proficiente em React, HTML5, CSS3 e JavaScript.
   - ⚙️ *Back-end:* Experiência sólida com NodeJS e TypeScript.
@@ -49,6 +46,9 @@
   - 📊 *Bancos de Dados:* Domínio de MySQL e MongoDB.
   - 🐍 *Automação:* Conhecimentos em Python.
 - 👨‍💻 Em busca de oportunidades para *Desenvolvimento Remoto*.
+### 🛠️ O que estou fazendo agora
+- **QA & Research** na Unisanta: Trabalhando na validação de [IAmedbr], garantindo que o código seja robusto e escalável.
+- Focado em: Testes Automatizados, Testes de API e Documentação Técnica.
 
 ---
 
